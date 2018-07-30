@@ -30,7 +30,6 @@ Composer
 * [Laravel](https://laravel.com) - The PHP Framework For Web Artisans
 * [Laravel Voyager](https://laravelvoyager.com/) - The Missing Laravel Admin
 * [Laravel Voyager Frontend](https://github.com/pvtl/voyager-frontend) - The Missing Front-end for The Missing Laravel Admin
-* 
 
 ## Authors
 
