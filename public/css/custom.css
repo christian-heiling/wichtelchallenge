@@ -1,0 +1,61 @@
+/*
+wish states
+ */
+
+.voyager .panel-wish .panel-heading {
+    background: inherit;
+}
+
+.panel-wish .panel-title {
+    color: inherit;
+}
+
+.panel-wish .panel-footer {
+    background: inherit;
+}
+
+/* in-progress */
+.panel-wish-in-progress {
+    color: #fff !important;
+    background-color: #757E83 !important;
+}
+
+/* unpublished */
+.panel-wish-unpublished {
+    color: #000000 !important;
+    background-color: #fff240 !important;
+}
+
+/* success */
+.panel-wish-success {
+    color: #fff !important;
+    background-color: #28a745 !important;
+}
+
+/* failed */
+.panel-wish-failed {
+    color: #fff !important;
+    background-color: #dc3545 !important;
+}
+
+/* wish teaser */
+
+.panel-wish .big-icon {
+    font-size: 5em;
+}
+
+.panel-wish .panel-wish-teaser {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.panel-wish .panel-wish-teaser i{
+    display: block;
+
+}
+
+/* present table */
+
+table.present-table tr {
+    background-color: #F8FAFC;
+}
